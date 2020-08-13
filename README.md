@@ -16,6 +16,8 @@ ROWS - Number of rows to use. Defaults to 40
 
 Both are optional arguments.
 
+
+
 First click - start point
 
 Second click - end point
