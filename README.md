@@ -1,5 +1,5 @@
 # Pathfinding Visualizer (Python)
-A visualization tool to compare pathfinding algorithms. Using python as the engine and the pygame module as the visualizer, Dijkstra's, A* and Greedy Best First Search were implemented.
+A visualization tool to compare pathfinding algorithms. Using the pygame module as the visualizer, Dijkstra's, A* and Greedy Best First Search were implemented.
 
 ![imgur](https://i.imgur.com/KZclLdo.gif)
 
