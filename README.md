@@ -23,4 +23,5 @@ Second click - end point
 All other clicks - barriers <br/>
 
 SPACEBAR Key - begin
+
 C Key - Clear (when board is not active)
