@@ -11,6 +11,7 @@ Pygame
 python main.py -algorithm astar -rows 40
 ```
 ALGORITHM - Algorithm of choice {options: dijkstra, astar, gbf}. Defaults to astar
+
 ROWS - Number of rows to use. Defaults to 40
 
 Both are optional arguments.
