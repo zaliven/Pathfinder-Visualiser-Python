@@ -14,13 +14,13 @@ ALGORITHM - Algorithm of choice {options: dijkstra, astar, gbf}. Defaults to ast
 
 ROWS - Number of rows to use. Defaults to 40
 
-Both are optional arguments.\
+Both are optional arguments. <br/>
 
 First click - start point
 
 Second click - end point
 
-All other clicks - barriers\
+All other clicks - barriers <br/>
 
 SPACEBAR Key - begin
 C Key - Clear (when board is not active)
