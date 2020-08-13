@@ -1,4 +1,4 @@
-# Pathfinder-Visualiser-Python
+# Pathfinder-Visualizer-Python
 A visualization tool to compare pathfinding algorithms. Using pygame as the visualizer, Dijkstra's, A* and Greedy Best First Search are implemented.
 
 ![imgur](https://i.imgur.com/KZclLdo.gif)
