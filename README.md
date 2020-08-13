@@ -22,6 +22,6 @@ Second click - end point
 
 All other clicks - barriers <br/>&nbsp;
 
-SPACEBAR Key - begin
+SPACEBAR Key - begin visualizing algorithm
 
 C Key - Clear (when board is not active)
